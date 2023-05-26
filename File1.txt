@@ -1,3 +1,0 @@
-Name: Sneha Shinde
-Class: TE(IT)
-Subject: Wad Application Development
